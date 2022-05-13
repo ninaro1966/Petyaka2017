@@ -54,7 +54,8 @@
 
 # Синтаксис языка MarkDown #
 
-![<alt text>](<cheatsheet-makdown.jpg>)
+![<вльтернативный текст>](<pic.jpg>)
+
 
 
 
